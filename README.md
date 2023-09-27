@@ -5,11 +5,10 @@
 
 
 
-- 🔭 I’m currently working as **Software Engineer** at Include Software - USA
+- 🔭 I currently work as an IT intern
 
-- 🌱 I’m currently working with ReactJS/NodeJS Stack using Typescript, Clean Architecture and Clean Code
+- 🌱  I'm currently working with PHP
 
-- 📊 Founder and CTO at Mino CRM https://crm.minosuite.com.br/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
